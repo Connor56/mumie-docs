@@ -34,9 +34,20 @@
               "icon": "lucide-file",
               "title": "2024-11-22"
             }
+          },
+          {
+            "id": "90c94a6a03c38d94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2024-10-15.md",
+                "file": "Daily Logs/2024-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-15"
+              "title": "Backlinks for 2024-10-28"
             }
           },
           {
@@ -127,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Logs/2024-10-15.md",
+                "file": "Daily Logs/2024-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-15"
+              "title": "Outgoing links from 2024-10-28"
             }
           },
           {
@@ -154,21 +165,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Logs/2024-10-15.md"
+                "file": "Daily Logs/2024-10-28.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-15"
+              "title": "Outline of 2024-10-28"
+            }
+          },
+          {
+            "id": "d2838aab157a769d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98656e5d98af9d93",
+  "active": "ca7220159e2366bd",
   "lastOpenFiles": [
     "Daily Logs/2024-11-22.md",
     "Daily Logs/2024-10-26.md",
