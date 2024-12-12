@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Logs/2024-12-01.md",
+                "file": "Daily Logs/2024-12-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2024-12-01.md",
+                "file": "Daily Logs/2024-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Logs/2024-12-01.md",
+                "file": "Daily Logs/2024-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Logs/2024-12-01.md"
+                "file": "Daily Logs/2024-12-12.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "32f3a6a17eba7c41",
   "lastOpenFiles": [
+    "Daily Logs/2024-09-09.md",
+    "Daily Logs/2024-12-12.md",
+    "Daily Logs/2024-12-01.md",
     "Daily Logs/attachments/Pasted image 20241201030942.png",
     "Daily Logs/2024-11-28.md",
-    "Daily Logs/2024-12-01.md",
     "Daily Logs/2024-11-27.md",
     "Daily Logs/2024-11-22.md",
     "Daily Logs/2024-10-28.md",
@@ -173,7 +175,6 @@
     "Daily Logs/2024-10-02.md",
     "Daily Logs/2024-09-10.md",
     "Daily Logs/attachments/Pasted image 20240910230022.png",
-    "Daily Logs/2024-09-09.md",
     "Daily Logs/2024-09-08.md",
     "Overarching Goals/2024-07-18 - Goals.md",
     "Sagas/Local Deployment For Development.md",
@@ -192,7 +193,6 @@
     "Sagas/attachments/Pasted image 20240825231056.png",
     "Sagas/attachments/Pasted image 20240825090856.png",
     "Daily Logs/2024-08-25.md",
-    "Sagas/attachments/Pasted image 20240818231458.png",
     "Sagas/attachments",
     "Sagas",
     "Daily Logs/attachments",
