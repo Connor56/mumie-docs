@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Logs/2024-12-12.md",
+                "file": "Sagas/The AWS Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2024-12-12.md",
+                "file": "Sagas/The AWS Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Logs/2024-12-12.md",
+                "file": "Sagas/The AWS Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Logs/2024-12-12.md"
+                "file": "Sagas/The AWS Backend.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "32f3a6a17eba7c41",
   "lastOpenFiles": [
-    "Daily Logs/2024-09-09.md",
     "Daily Logs/2024-12-12.md",
+    "Sagas/The AWS Backend.md",
+    "Daily Logs/2024-09-09.md",
     "Daily Logs/2024-12-01.md",
     "Daily Logs/attachments/Pasted image 20241201030942.png",
     "Daily Logs/2024-11-28.md",
@@ -192,7 +193,6 @@
     "Daily Logs/attachments/Pasted image 20240826092714.png",
     "Sagas/attachments/Pasted image 20240825231056.png",
     "Sagas/attachments/Pasted image 20240825090856.png",
-    "Daily Logs/2024-08-25.md",
     "Sagas/attachments",
     "Sagas",
     "Daily Logs/attachments",

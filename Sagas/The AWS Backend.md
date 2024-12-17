@@ -1,0 +1,1 @@
+This saga is going to be a combination of learning Golang and learning
